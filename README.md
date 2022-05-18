@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautmii
 - 👀 interested in learning Spanish| Web Devlopment | Graphic Designing 
-- 🌱 Data Scientist 
+- 🌱 Machine Learning | Data Science
 - 🌱 I’m currently learning Data Structures and Algorithms .
 - 💞️ I’m looking forword to improve my coding and Technical skills. 
 - 📫 Reach me via shreyanegi1106@gmail.com
