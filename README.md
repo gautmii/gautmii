@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gautmii
-- 👀 I’m would love to learn Spanish, Psychology, Web Devlopment, Graphic Designing  .
+- 👀 interested in learning Spanish| Web Devlopment | Graphic Designing 
 - 🌱 Data Scientist 
 - 🌱 I’m currently learning Data Structures and Algorithms .
 - 💞️ I’m looking forword to improve my coding and Technical skills. 
