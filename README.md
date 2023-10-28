@@ -3,7 +3,7 @@
 - 🌱 Machine Learning | Data Science
 - 🌱 I’m currently learning Data Structures and Algorithms .
 - 💞️ I’m looking forword to improve my coding and Technical skills. 
-- 📫 Reach me via shreyanegi1106@gmail.com
+
 Love painting? Reach me, Let's paint,design and create some new projects together!
 And explore new interest :)
 
